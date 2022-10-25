@@ -1,2 +1,2 @@
 # Gitdemo
-a demo
+a demo to testing with Git command
